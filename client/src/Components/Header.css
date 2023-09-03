@@ -1,0 +1,31 @@
+header{
+    background-image: url('../images/blog-header-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+}
+.app-name{
+    font-size: 30px;
+    color: white;
+    padding:20px;
+    padding-left: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.create-blog{
+    color: white;
+    height: 5%;
+    margin: 15px;
+    margin-right: 40px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgba(159, 183, 255, 0.319);
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}

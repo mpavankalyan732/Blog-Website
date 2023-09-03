@@ -1,0 +1,19 @@
+.image2{
+    width: 96%;
+    margin: 20px;
+    height: 400px;
+    border-radius: 10px;
+    /* margin-right: 10%; */
+}
+.read-button{
+    font-size: 18px;
+    height: 50px;
+    width: 90px;
+    background:#042045 ;
+    color: #e4e6f0;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 88%;
+}
+

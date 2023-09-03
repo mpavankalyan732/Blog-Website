@@ -1,0 +1,46 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3.5%;
+    margin: 10px;
+  }
+  .addblogmain{
+    margin: 5px;
+    padding: 10px;
+    height: 500px;
+    width: 500px;
+    background-color: rgba(178, 183, 208, 0.367);
+    border: 2px solid black;
+    border-radius: 20px;
+    justify-content: center;
+    clear: both;
+  }
+  .hclass h1{
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+  }
+  .form1{
+    padding: 20px;
+  }
+  .button1{
+    margin-left: 40%;
+    height: 25px;
+    width: 65px;
+    color: rgb(236, 238, 247);
+    background-color: black;
+    border-radius: 5px;
+    /* padding-bottom: 55px; */
+    margin-bottom: 15px;
+  }
+  input{
+    /* width: 400px; */
+    padding:0.7rem;
+    width: 85%;
+    border-bottom: 2px solid #2c5245;
+    border-radius: 5px;
+    font-family: 'Concert One', cursive;
+  }
+  .margin{
+    
+  }
